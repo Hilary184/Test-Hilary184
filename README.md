@@ -32,7 +32,6 @@ My journey in network engineering has led me to develop a passion for cybersecur
 | Network Traffic Monitoring and Attack Detection | <a href="https://drive.google.com/drive/folders/1uLFxwY6KG60GKy5AdLWHepmwff6ALqAV?usp=drive_link">Detection Lab</a>|
 | Active Directory Setup                        | Network Engineering Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
