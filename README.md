@@ -30,9 +30,7 @@ My journey in network engineering has led me to develop a passion for cybersecur
 |-----------------------------------------------|----------------------------|
 | IDS/IPS Implementation and Log Analysis          | <a href="https://drive.google.com/drive/folders/1ZjALEXUS-wufoNF4s-gct-jzYa0-ycjb?usp=drive_link">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://drive.google.com/drive/folders/1uLFxwY6KG60GKy5AdLWHepmwff6ALqAV?usp=drive_link">Detection Lab</a>|
-| Active Directory Setup                        | Network Engineering Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
