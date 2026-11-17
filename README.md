@@ -55,11 +55,17 @@ My journey in network engineering has led me to develop a passion for Cloud Secu
 </div>
 
 
-### 🏆 Certification (Recent)
+
+### 🏆 Professional Certifications
 
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security - Specialty" width="125" />
+  <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security - Specialty" width="120" height="120" />
+
+  <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="Certification Badge 2" width="120" height="120" />
+
+  <img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="Certification Badge 3" width="120" height="120" />
 </p>
+
 
 ### 🛡️ Technical stark
 
