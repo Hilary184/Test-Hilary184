@@ -67,12 +67,6 @@ My journey in network engineering has led me to develop a passion for Cloud Secu
 </p>
 
 
-### 🛡️ Technical stark
-
-![AWS Security](https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![CompTIA Network+](https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/-Security%2B-C8202F?style=for-the-badge&logo=CompTIA&logoColor=white)
-
 
 
 ## Projects
