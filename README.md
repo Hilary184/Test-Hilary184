@@ -28,6 +28,7 @@ My journey in network engineering has led me to develop a passion for cybersecur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Building a Secure VPC using AWS console          | <a href="https://drive.google.com/drive/folders/1aICWLjCbVedpWYgK4kwfI2u_x5csODMd?usp=sharing">AWS Lab</a>|
 | IDS/IPS Implementation and Log Analysis          | <a href="https://drive.google.com/drive/folders/1ZjALEXUS-wufoNF4s-gct-jzYa0-ycjb?usp=drive_link">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://drive.google.com/drive/folders/1uLFxwY6KG60GKy5AdLWHepmwff6ALqAV?usp=drive_link">Detection Lab</a>|
 | Pfsense Firewall Setup (Homelab Rules) | <a href="https://drive.google.com/drive/folders/1d6OZlNGfpIGURQfVUQJS7LyyRnFGiXGy?usp=sharing">Detection Lab</a>|
@@ -54,14 +55,21 @@ My journey in network engineering has led me to develop a passion for cybersecur
 
 </div>
 
-## Certifications
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+### 🏆 Certifications
+
+<p align="left">
+  <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security - Specialty" width="125" />
+</p>
+
+### 🛡️ Technical Certifications
+
+![AWS Security](https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/-Security%2B-C8202F?style=for-the-badge&logo=CompTIA&logoColor=white)
+
 
 
 ## Projects
 
-- Detection Lab
-- SOC Automation Project
+LINK ABOVE IN TABLE
