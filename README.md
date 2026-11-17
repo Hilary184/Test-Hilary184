@@ -5,7 +5,7 @@ Hello, I'm Hilary Thompson
 
 ## Introduction
 
-I'm a Cloud and network security professional. I am an AWS certified security specialist with hands-on experience in security operations, user access management, network security and compliance across the financial services, telecommunications, oil and gas, and sports sectors. I have very strong grounding in identity and access management (IAM), least-privilege access control, cloud security controls and security standards (ISO 27001, NIST, PCI, DSS) backed by automation and CI/CD experience with Python and Ansible. Collaborates effectively with security infrastructure, service engineering and business application teams to deliver secure, compliant solutions, and works independently across multiple priorities with full ownership of deliverables. 
+Cloud and network security professional. An AWS certified security specialist with hands-on experience in security operations, user access management, network security and compliance across the financial services, telecommunications, oil and gas, and sports sectors. I have very strong grounding in identity and access management (IAM), least-privilege access control, cloud security controls and security standards (ISO 27001, NIST, PCI, DSS) backed by automation and CI/CD experience with Python and Ansible. Collaborates effectively with security infrastructure, service engineering and business application teams to deliver secure, compliant solutions, and works independently across multiple priorities with full ownership of deliverables. 
 
 
 ## Objective
