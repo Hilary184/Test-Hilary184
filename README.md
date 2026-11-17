@@ -15,14 +15,14 @@ My journey in network engineering has led me to develop a passion for Cloud Secu
 
 
 ## Area of expertise 
-- Information Security and Business Continuity Frameworks (ISO 27001, NIST, ISO 22301)
-- Incident Management and SOC Processes
-- Third-Party Vendor Due Diligence
-- Risk Management and Compliance Gap Analysis
-- Regulatory Compliance Frameworks (GDPR)
-- Cisco FMC, Cisco ASA, Cisco Threat Defence, Cisco Nexus, and Meraki
-- AWS, Microsoft Office Suite, Outlook, Zendesk, Intercom, VMware (Windows Server 2019 & 2022, Windows, Kali Linux, and Ubuntu)
-- Remote support: Cisco Secure Client, TeamViewer
+- Identity and Access Management: AWS IAM roles and policies, permission boundaries, Service Control Policies (SCPs), AWS IAM identity centre (SSO), IAM Access Analyser, role-based access control (RBAC), least privilege, user access and permissions management.
+- Cloud Security (AWS) : AWS Organisations, AWS KMS, AWS CloudTrail, Amazon GuardDuty, AWS Security Hub, AWS Config, cloud security controls, security standards and policy compliance.
+- Automation and DevSecOps: Python, Ansible, CI/CD pipelines, security automation, documentation and SOP development.
+- Security Operations: SIEM (Rapid7), IDS/IPS, EDR (SentinelOne), incident management, SOC processes, threat research, root cause analysis.
+- Network Security: Cisco FMC, Cisco ASA, Cisco Firepower Threat Defence, Cisco Nexus, Meraki, firewalls, LAN/WAN. 
+- Governance, Risk and Compliance: ISO 27001/27002:2022, NIST, ISO 22301, PCI DSS, GDPR, risk management, compliance gap analysis, third-party vendor due diligence. 
+- Platforms and Tools: VMware, Hyper-V, Cisco Secure Client, TeamViewer, Zendesk, Intercom, Microsoft 365
+- Professional: Cross-functiional collaboration, stakeholder management, mentoring and user training managing multiple priorities.
 - Documention, SOP Development, User Training, Python  
 
 | Skill                                         | Associated Project         |
@@ -55,13 +55,13 @@ My journey in network engineering has led me to develop a passion for Cloud Secu
 </div>
 
 
-### 🏆 Certifications
+### 🏆 Certification (Recent)
 
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security - Specialty" width="125" />
 </p>
 
-### 🛡️ Technical Certifications
+### 🛡️ Technical stark
 
 ![AWS Security](https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white)
