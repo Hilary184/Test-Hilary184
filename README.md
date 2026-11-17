@@ -5,13 +5,12 @@ Hello, I'm Hilary Thompson
 
 ## Introduction
 
-I'm a network engineering professional with expertise across financial telecomunications, oil and gas, and sports sectors. Skilled in network security management, LAN & WAN networking, delivering roubust IT solutions with seamless configurations, and exceptional support services. Adept at enhancing email and network security with compliance practices with a focus on business continuity frameworks like ISO27001/2:2022, NIST, and ISO 22301. 
-
+I'm a Cloud and network security professional. I am an AWS certified security specialist with hands-on experience in security operations, user access management, network security and compliance across the financial services, telecommunications, oil and gas, and sports sectors. I have very strong grounding in identity and access management (IAM), least-privilege access control, cloud security controls and security standards (ISO 27001, NIST, PCI, DSS) backed by automation and CI/CD experience with Python and Ansible. Collaborates effectively with security infrastructure, service engineering and business application teams to deliver secure, compliant solutions, and works independently across multiple priorities with full ownership of deliverables. 
 
 
 ## Objective
 
-My journey in network engineering has led me to develop a passion for cybersecurity, and now i am eager to transition into this field, specifically aiming to join a Security Operations Center as a Tier 2 Analyst. 
+My journey in network engineering has led me to develop a passion for Cloud Security, and now i am eager to transition into this field, specifically aiming to join any company as their Cloud Security Engineer and Platforms Engineer. 
 
 
 
